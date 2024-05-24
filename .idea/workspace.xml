@@ -18,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/src/index.css" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="2guDmvYtxLgsE1RATlrtBWElaTP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716538731990</updated>
-      <workItem from="1716538735106" duration="6976000" />
+      <workItem from="1716538735106" duration="7347000" />
     </task>
     <servers />
   </component>
