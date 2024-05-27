@@ -34,7 +34,7 @@ function App() {
                             Enter
                         </div>
                     </div>
-                    <div className="middle-bottom-child">
+                    <div className="middle-bottom-child" onClick={()=>{window.location.href='https://purify-lab.gitbook.io/rise-of-realms/'}}>
                         <img className="flower-img" src="flower.png" alt=""/>
                         <div className="flower-text">
                             Doc
@@ -49,7 +49,7 @@ function App() {
               More are under experiment...
           </div>
           <img className="bottom-img" src="bottom.png" alt=""/>
-          <div className="middle-bottom-child bottom-desc">
+          <div className="middle-bottom-child bottom-desc" onClick={()=>{window.location.href='https://x.com/purifylab_xyz'}}>
               <img className="flower-img" src="flower.png" alt=""/>
               <div className="flower-text">
                   Follow Us
